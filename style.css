@@ -1,0 +1,184 @@
+body{
+    margin: 10px;
+    
+    padding: 100px;
+    margin-left: 200px;
+ 
+ 
+}
+.header{
+    width: 300px;
+    background-color: rgb(21, 22, 21);
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0.5px solid;
+}
+.calculator-text{
+    text-align: center;
+    margin-left: 8%;
+    font-style: ;
+    font-family: serif;
+    color: #ffffff;
+}
+input{
+    margin-left: 12px;
+    width: 250px;
+    height: 65px;
+    outline: none;
+    border: none;
+    background: #ffffff;
+    padding: 10px 12px;
+    border-radius: 7px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.digit{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    padding-top: 40px;
+    margin-left: 5px;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+ 
+    
+    
+}
+.digit0{
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    background-color: blanchedalmond;
+    border: 0.5px solid;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+  
+  
+}
+.digit1{
+    
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    border: 0.5px solid;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    font-family: sans-serif;
+  
+}
+.digit2{
+    background-color: blanchedalmond;
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    border: 0.5px solid;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+
+
+}
+.digit3{
+    background-color: blanchedalmond;
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    border: 0.5px solid;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px;
+   flex-direction: ;
+   font-size: 20px;
+   font-family: sans-serif;
+    
+}
+.digit4{
+    background-color: blanchedalmond;
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    border: 0.5px solid;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+   
+}
+.digit5{
+    background-color: blanchedalmond;
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    border: 0.5px solid;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px;
+    
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+.digit6{
+  background-color: blanchedalmond;
+  width: 50px;
+  height: 30px;
+  padding: 5px;
+  border: 0.5px solid;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+ 
+}
+.digit7{
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    border: 0.5px solid;
+    text-align: center;
+    box-sizing: border-box;
+    
+    background-color: blanchedalmond;
+    margin: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.digit8{
+    background-color: rgb(252, 240, 220);
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    border: 0.5px solid;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+   
+}
+.digit9{
+    background-color: rgb(249, 238, 223);
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    border: 0.5px solid;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
